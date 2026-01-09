@@ -3,7 +3,7 @@
 **Memogram** is a web-based platform for creating, publishing, and sharing memes and user-generated visual content.  
 The project focuses on modern short-form and vertical media formats, as well as social interaction between users.
 
-🌐 **Live demo:** https://memogram.vercel.app/
+🌐 **Live demo:** https://memogramm.vercel.app/
 
 ---
 
